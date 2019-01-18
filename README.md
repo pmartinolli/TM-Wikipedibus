@@ -17,7 +17,7 @@
 
 * Presented at / Présenté à : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html).
 
-* Promoted through / Diffusé via : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
+* Promoted through / Diffusé via : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca), [Wikipédia:Projets pédagogiques](https://fr.wikipedia.org/wiki/Wikipédia:Projets_pédagogiques/Université_de_Montréal/Bib_UdeM)
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
