@@ -32,7 +32,7 @@ C'est le principe de la quête secondaire, chère aux jeux de rôle sur table et
 
 Une quête secondaire doit :
 
-- être pas trop long
+- Être pas trop long
 - Arriver au bon moment
 - Pas inutile ni anecdotique
 - Bonifier le parcours
