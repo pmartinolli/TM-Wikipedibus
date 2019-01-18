@@ -22,6 +22,27 @@
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 
+## Principes pédagogiques
+
+Wikipedibus est une activité auto-dirigée et guidée pour que l'apprenant découvre progressivement et seul la contribution à Wikipédia. L'intervention de l'enseignant n'est pas requise. Il est disponible en soutien sur besoin seulement. 
+
+### Quête secondaire
+
+C'est le principe de la quête secondaire, chère aux jeux de rôle sur table et sur ordinateur : « Va là-bas... accomplir ceci... en suivant ces étapes... et contacte-moi si tu as des questions. »
+
+Une quête secondaire doit :
+
+- être pas trop long
+- Arriver au bon moment
+- Pas inutile ni anecdotique
+- Bonifier le parcours
+- Pas gêner le parcours principal
+- Pas de conséquences négatives
+- Pas indispensable
+
+
+
+
 
 
 TM-Wikipedibus
