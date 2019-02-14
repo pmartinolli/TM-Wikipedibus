@@ -1,5 +1,5 @@
 # Wikipedibus : Comment devenir un wikipédien en 5 étapes
-# Wikipedibus : Self-directed program to become a Wikipedian
+Wikipedibus : Self-directed program to become a Wikipedian
 
 [Parcours en français, PDF](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/files/wikipedibus-v1.8.fr.pdf)
 
