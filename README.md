@@ -3,6 +3,8 @@ Wikipedibus : Self-directed program to become a Wikipedian
 
 [Parcours en français, PDF](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/files/wikipedibus-v1.8.fr.pdf)
 
+[Become a Wikipedian in 5 steps, in English, PDF](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/files/wikipedibus_v0.1en.pdf)
+
 ## Principes pédagogiques
 
 Wikipedibus est une activité auto-dirigée et fortement structurée selon le principe de la « [quête secondaire](https://jdr.hypotheses.org/1052) » dans un programme de formation plus large. Le but est que l'apprenant découvre la contribution à Wikipédia progressivement et par lui-même. L'intervention de l'enseignant n'est pas requise. Il est disponible en soutien sur besoin seulement. 
@@ -11,6 +13,8 @@ Wikipedibus est une activité auto-dirigée et fortement structurée selon le pr
 ## Métadonnées
 
 * Author / Auteur : Pascal Martinolli
+
+* Traduit en anglais par / Translated in English by : Jennifer AW Stubbs ([jas59](https://github.com/jas58))
 
 * Created / Créé le : 2016
 
